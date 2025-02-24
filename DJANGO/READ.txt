@@ -1,2 +1,0 @@
-Django simple app I did for mi final work at the university. The main purpose of this tool is to connect the data scientists results with the australian
-goverment who could anticipate to the airports management taking the information into account.
