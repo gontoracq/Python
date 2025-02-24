@@ -7,7 +7,7 @@
 
 # PROFESOR: Ignacio Perez Hurtado de Mendoza
 # perezh at us dot es
-#ALUMNO:  Avery Alonso Behrens (avealobeh)
+#ALUMNO:  Gonzalo Torres-Quevedo Acquaroni (gontoracq)
 
 #=====================================================================
 # FRAMEWORK DE ALGORITMOS GENETICOS
@@ -1338,7 +1338,7 @@ def berlinFitness2(c):                #MAXIMIZAR
 
 
 #================================================================================================================
-#                       RESPUESTAS DE AVERY ALONSO
+#                       RESPUESTAS DE GONZALO TORRES-QUEVEDO
 #===============================================================================================================
 # EXPERIMENTO NUMERO 1
 #---------------------
