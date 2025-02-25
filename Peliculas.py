@@ -1,3 +1,6 @@
+'''Script que se encarga de crear las estructuras de objetos para su posterior inserción como tablas, 
+consulta o borrado en una base de datos Cassandra que corre en un contenedor Docker'''
+
 from cassandra.cluster import Cluster
 
 cluster = Cluster()
